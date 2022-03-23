@@ -66,4 +66,4 @@ console.log(color);
 const number = "21"
 console.log(number);
 
-document.getElementById("risultato").innerHTML = userName + " "+ userLast  + " "+ color + " "+ number;
+document.getElementById("risultato").innerHTML = userName + userLast + color + number;
