@@ -63,7 +63,7 @@ console.log(userLast);
 let color = prompt(" Qual'è il tuo colore preferito?");
 console.log(color);
 
-const number = "29"
+const number = "21"
 console.log(number);
 
 document.getElementById("risultato").innerHTML = userName + " "+ userLast  + " "+ color + " "+ number;
